@@ -1,0 +1,3 @@
+/Users/norawennerstrom/CLionProjects/programmeringsmetodik/labb4/cmake-build-debug/CMakeFiles/labb4.dir
+/Users/norawennerstrom/CLionProjects/programmeringsmetodik/labb4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/norawennerstrom/CLionProjects/programmeringsmetodik/labb4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
